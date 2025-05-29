@@ -31,7 +31,7 @@ export default {
     </ul>
 
     <p class="paragrafo dica">
-      *Atenção consideramos que você tem em casa sal, pimente e água.
+      *Atenção consideramos que você tem em casa sal, pimenta e água.
     </p>
   </section>
 </template>
