@@ -10,6 +10,8 @@
     <button class="paragrafo-lg botao-principal">
         {{ texto }}
     </button>
+
+    
 </template>
 
 <style scoped>
