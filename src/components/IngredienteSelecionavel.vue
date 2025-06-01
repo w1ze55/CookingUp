@@ -15,9 +15,9 @@ export default {
 </script>
 
 <template>
-    <button 
+    <button
     class="ingrediente" 
-    v-on:click="selecionado = !selecionado"
+    @click="selecionado = !selecionado"
     :aria-pressed="selecionado"
     >
         <Tag :texto="ingrediente" :ativa="selecionado" />
